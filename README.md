@@ -1,8 +1,5 @@
 # technoeconomic_France_telecom
 Technoeconommic evaluation of france telecom market
-# Techno-Economic Evaluation of Telecommunication Systems - Assignment Part 2
-
-This repository contains the files and information related to Part 2 of the assignment for the course "Techno-Economic Evaluation of Telecommunication Systems" for the academic year 2022-2023.
 
 
 
